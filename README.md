@@ -1,1 +1,2 @@
-# Testowe-repozytorium
+
+Repozytorium testów E2E
